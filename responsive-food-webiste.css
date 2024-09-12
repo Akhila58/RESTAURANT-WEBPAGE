@@ -1,0 +1,220 @@
+.navbar-logo{
+    height:70px;
+    width:80ppx;
+}
+#nav-item1{
+    color:#323f4b;
+    font-family:roboto;
+} 
+#nav-item2{
+    color:#323f4b;
+    font-family:roboto;
+} 
+#nav-item3{
+    color:#323f4b;
+    font-family:roboto;
+} 
+#nav-item4{
+    color:#323f4b;
+    font-family:roboto;
+} 
+.inside-navbar{
+    margin-left: auto;
+}
+.banner-section-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:90vh;
+    background-size: cover;
+}
+.banner-section-heading{
+    color:white;
+    font-size: 45px;
+    font-weight: 300;
+    font-style: solid;
+    font-family:roboto;
+}
+.banner-section-caption{
+    color:white;
+    font-size: 20px;
+    font-style: solid;
+    font-family:roboto; 
+}
+.banner-section-button1{
+    color:white;
+    background-color: #d0b200;
+    height:45px;
+    width:130px;
+    border-radius:8px;
+    font-family:roboto;
+    margin-right:16px;
+}
+.banner-section-button2{
+    color: #d0b200;
+    background-color:transparent;
+    height:45px;
+    width:130px;
+    border-radius:12px;
+    border-color: #d0b200;
+    font-family:roboto;
+    border-width: 1px;
+}
+.wcu-section{
+    background-color:azure;
+    margin:10px;
+}
+.wcu-card-image{
+    height:130px;
+    width:130px;
+}
+.wcu-section-heading{
+    font-size: 30px;
+    font-weight:bold;
+    font-family:calibri;
+    color:rgb(21, 21, 71);
+    padding:15px;
+}
+.wcr-section-description,{
+    font-size: 15px;
+    color:rgb(14, 14, 52);
+    font-family:calibri;
+}
+.wcu-section-card{
+    background-color: white;
+}
+.wcu-card-headng{
+    color:rgb(14, 14, 52);
+    font-size:20px;
+    font-family: calibri;
+    font-weight:bold;   
+}
+.explore-menu-section{
+    background-color: white;
+ }
+ .item-card-section{
+     border-radius: 16px;
+ }
+ .explore-menu-heading{
+     color:#183b56;
+     font-family:roboto;
+     font-size:40px;
+     font-weight: 700px;
+ }
+ .itemcard-image{
+     border-radius:16px;
+ }
+ .item-name{
+     font-size:20px;
+     font-family:roboto;
+     color:#323f4b;
+     margin-top:24px;
+     font-weight:500px;
+ }
+ .item-details{
+     color:#d0b200;
+     font-size:16px;
+     font-family: roboto;
+     font-weight:500px;
+     padding-bottom: 20px;
+ }
+ .healthy-food-section{
+    background-color: #f9fbfe;
+    margin:20px;
+}
+.healthy-food-image{
+   width:270px;
+
+}
+.healthy-food-heading{
+    font-size:24px;
+    font-family:roboto;
+    font-weight:bold;
+    color:#183b56;
+}
+.healthy-food-section-text{
+    font-size:16px;
+    font-family:roboto;
+    color:#183b56; 
+}
+.custom-button{
+    height:40px;
+    width:120px;
+    background-color:#d0b200;
+    color:white;
+    border-radius:5px;
+    border:none;
+}
+.delivery-payment-image{
+    width:270px;
+}
+.delivery-payment-heading{
+    font-size:24px;
+    font-family:roboto;
+    font-weight:bold;
+    color:#183b56;  
+}
+.delivery-payment-decription{
+    font-size:16px;
+    font-family:roboto;
+    color:#183b56; 
+}
+.payment-opt{
+    height:50px;
+    width:60px;
+    margin-left:20px;
+}
+.thanking-section{
+    background-color: #d0b2001a;
+}
+.thanking-section-heading{
+    font-size:30px;
+    font-family:roboto;
+    color:#183b56;
+    padding-top:50px;
+}
+.thanking-section-paragraph{
+    color:grey;
+}
+.gift-image{
+    width:270px;
+}
+.thanking-section-button{
+    height:40px;
+    width:120px;
+    background-color:#d0b200;
+    color:white;
+    border-radius:5px;
+    border:none;
+    margin-left:20px;
+    margin-top:20px;
+}
+.icons{
+    color: #d0b200;
+    font-size: 35px;
+}
+.icons-background{
+    background-color: #faf7e8;
+    height:80px;
+    width:80px;
+    padding-top:22px;
+    padding-bottom:14px;
+    padding-left:22px;
+    padding-right:16px;
+    margin:15px;
+    border-radius:40px;
+}
+.aboutUs-section{
+    background-color:#183b56;
+}
+.navbar_logo{
+    height:60px;
+    width:60px;
+}
+.aboutUs-email{
+    color:white;
+    font-size:22px;
+    font-family:roboto;
+    font-weight:500;
+}
+.address{
+    color:white;
+}
